@@ -1,0 +1,273 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@200&display=swap');
+</style>
+
+
+{
+    margin:0;
+    padding:0;
+    box sizing:border-box;
+    
+}
+
+.container{
+    width:22%;
+    min-height: 75vh;
+    padding: 15px; 
+    background-color: #eeecf8;
+    color:rgba(0, 0, 0, 0.646)
+}
+h4{margin top:0%}
+
+
+.container li:hover{
+    background-color: #eeecf853;
+    color: grey
+
+}
+.container li:hover i{
+    color: blueviolet;
+    
+}
+.tad{
+    width:100%;
+} 
+.container-3{
+    display: flex;
+    flex-direction: row ;
+    
+a{display: block;
+    color:grey;
+}
+ 
+
+}
+.container-2{
+    display:flex;
+    flex-direction: column;
+    width:80%;
+    background-color: #fff;
+}    
+.cad{
+    padding: 10px;
+    border: 2px;
+    width: 100%
+}
+.had{
+    
+    width: 100%
+}    
+span{
+    font-weight: 100;
+}
+.cad h4{
+    color: green;
+}
+#karate{
+    color: rgba(0, 0, 0, 0.902);
+}
+#search-bar{
+    width:100px;
+    input="name"
+}
+.tad li{
+    list-style-type: none;
+}
+.vertical line{
+    border-left: 6px;
+    position: absolute;
+    height:100px;
+    left:50%;
+}
+.b1{
+    margin-top: 0%;
+}
+#time{
+    color:black
+}
+.event{
+    color: rgba(0, 0, 0, 0.473);
+}
+#details{
+    color: black;
+}
+
+
+.content{
+    padding: 10px;
+    border: 2px solid lightgray;
+    border-radius: 10px;
+    
+     
+
+    
+    
+
+}
+
+.strip-1{
+padding: 6%;
+border-left: 6px solid green;
+height: 0.5px;
+margin-top: 0%;
+
+}
+#length{
+    width: 100%;
+}
+.had{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+.had-top{
+    width: 100%;
+    height: 14.23%;
+}
+.had-bot{
+    width: 100%;
+    height: 85.77%;
+}
+.had-top{
+    display: flex;
+    flex-direction: row;
+    height:20%;
+} 
+.left{
+    width: 65%;
+    height: 100%;
+}
+.right{
+    width: 35%;
+    height: 100%;
+}
+.had-bot{
+    display: flex;
+    flex-direction: row;
+    height:80%;
+}
+.cal-1{
+    width:14.284%;
+    height: 100%;
+}
+.cal-2{
+    width:14.284%;
+    height: 100%;
+}
+.cal-3{
+    width:14.284%;
+    height: 100%;
+}
+.cal-4{
+    width:14.284%;
+    height: 100%;
+}
+.cal-5{
+    width:14.284%;
+    height: 100%;
+}
+.cal-6{
+    width:14.284%;
+    height: 100%;
+}
+.cal-7{
+    width:14.284%;
+    height:100%
+}
+.cal-1{
+    display: flex;
+    flex-direction: column;
+}
+.cal-1-1{
+    height: 5%;
+    width: 100%;
+    border: 1px solid #eeebf9;
+    margin-left: 14px;
+    border-color: #eeebf9;
+    
+
+}
+ .cal-1-2{
+    height: 19%;
+    width:100%;
+    border:1px solid #eeebf9;
+    margin-left: 14px;
+    border-color: #eeebf9;
+    
+
+    
+ }  
+ .had-top{
+    border:1px solid #eeebf9;
+    margin-left: 14px;
+    border-color: #eeebf9;
+
+
+ }
+ .had{
+    border-radius: 3%;
+ }
+ .Right{
+    margin-top: 2%;
+ }
+ .had-top{
+    border-radius: 2px;
+ }
+ .cal-1{
+    margin-bottom: -4%;
+ }
+.tad{
+    font-family: 'Kanit', sans-serif;
+}
+.had-top{
+    border-radius: 4px;
+}
+
+.cal-1-2{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.fast{
+    width: fit-content;
+    height: 30%;
+    margin-bottom: -10%;
+    background-color: rgba(120, 177, 120, 0.87); 
+    border:1px solid green;
+    border-left: 2px solid green;
+}
+.fast h6{
+    margin: 0%;
+    color:#eeebf9;
+}
+.slow{
+    height: 20%;
+}
+.cal-1 :hover{
+    border-bottom: 2px solid blueviolet;
+}
+.cal-2 :hover{
+    border-bottom: 2px solid blueviolet;
+}
+.cal-3 :hover{
+    border-bottom: 2px solid blueviolet;
+}
+.cal-4 :hover{
+    border-bottom: 2px solid blueviolet;
+}
+.cal-5 :hover{
+    border-bottom: 2px solid blueviolet;
+}
+.cal-6 :hover{
+    border-bottom: 2px solid blueviolet;
+}
+.cal-7 :hover{
+    border-bottom: 2px solid blueviolet;
+}
+.had-bot{
+    border-radius: 5px;
+}
+
+
+
+
